@@ -2,7 +2,7 @@
 This repository contains the code provided in the appendix of the undergraduate dissertation of Carla Leone in the degree of Ecological and Environmenal Sciences at the University of Edinburgh.
 
 # Code for Acoustic Index Calculations and Statistical Analysis
-## The code included in this appendix is:
+## The code and data included in this appendix is:
 - [Meta data](https://github.com/carlaleone/Dissertation-Appendix/blob/main/final_merged.xlsx) 
 - [Splitting .wav files](https://github.com/carlaleone/Dissertation-Appendix/blob/main/splitting_sound_files.R)
 - [Calculating acoustic indices](https://github.com/carlaleone/Dissertation-Appendix/blob/main/acoustic_indices.R)
